@@ -8,3 +8,4 @@ compiler:
 script:
 - gcc -o test test.c // we can use gcc instead of clang too
 - ./test 
+
